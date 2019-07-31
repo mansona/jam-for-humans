@@ -5,7 +5,7 @@ module.exports = function(environment) {
     modulePrefix: 'jam-for-humans',
     environment,
     rootURL: '/',
-    locationType: 'auto',
+    locationType: 'preserve-hash',
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
