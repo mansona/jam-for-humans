@@ -5,4 +5,4 @@ notes: |
 
 ### what is jam really
 
-![cool](/images/cool.gif) <!-- .element style="height: 500px; border: none; background: none" -->
+<video controls autoplay loop muted playsinline style="height: 500px;" src="/images/cool.webm"></video>
