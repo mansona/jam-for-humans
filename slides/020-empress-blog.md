@@ -5,4 +5,4 @@ notes: |
 
 ### empress blog
 
-image
+![empress blog](/images/empress-blog.png)

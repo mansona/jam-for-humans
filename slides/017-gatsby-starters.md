@@ -7,6 +7,6 @@ notes: |
   This is where I want to start talking about my project and get into the meat of "JAM for humans"
 ---
 
-# gatsby starters
+### gatsby starters
 
-This is a slide!
+![gatsby starters](/images/gatsby-starters.png)
