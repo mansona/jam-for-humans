@@ -6,5 +6,3 @@ notes: |
 ---
 
 # prerendering
-
-prerendering livecycle

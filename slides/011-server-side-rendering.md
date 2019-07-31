@@ -8,5 +8,3 @@ notes: |
 ---
 
 # server side rendering
-
-This is a slide!

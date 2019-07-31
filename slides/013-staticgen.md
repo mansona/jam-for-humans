@@ -9,6 +9,4 @@ notes: |
   The J in JAM is more about client-side JS and goes back to my whole thign about SPAs
 ---
 
-# staticgen
-
-This is a slide!
+![staticgen](/images/staticgen.png) <!-- .element style="height: 600px; border: none; background: none" -->

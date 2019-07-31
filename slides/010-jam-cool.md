@@ -5,6 +5,4 @@ notes: |
   since I've been talking for 10 mins already let's go straight for the big one
 ---
 
-# jam-cool
-
-This is a slide!
+<video controls autoplay loop muted playsinline style="height: 500px;" src="/images/more-cool.webm"></video>

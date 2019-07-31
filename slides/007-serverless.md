@@ -11,4 +11,6 @@ notes: |
 
 ### Why Netlify
 
-- CDN
+![CDN all the things!](/images/what-is-a-cdn.webp)
+
+Content Delivery Network

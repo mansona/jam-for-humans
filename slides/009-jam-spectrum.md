@@ -11,8 +11,6 @@ notes: |
   so now that we've set up our app with an external api, what else do we need to do to move our SPA closer to the JAM stack?
 ---
 
-# JAM spectrum
+### JAM spectrum
 
-Empty Jam jar -> JAM JAM JAM
-
-slight jam <!-- .element class="fragment" -->
+![Empty jam jar](/images/empty-jam.png) ... ... ![Most jam](/images/most-jam.png)

@@ -12,5 +12,3 @@ notes: |
 ---
 
 # jam lifecycle
-
-This is a slide!

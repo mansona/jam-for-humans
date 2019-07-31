@@ -9,4 +9,4 @@ notes: |
 
 # simple
 
-This is a slide!
+<video controls autoplay loop muted playsinline style="height: 500px;" src="/images/simple.mp4"></video>
