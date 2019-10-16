@@ -1,14 +1,10 @@
 ---
 notes: |
-  so we can earn our cool JAM badge
+  Server side rendering will help you climb the jam ladder to maximum jam city! remember the quote from jamstack.org, they talk about building **fast** sites, and one way to really speed up the perceived performance of a Single Page application (and to win cool-engineer points) is to implement sever side rendering.
 
-  since I've been talking for 10 mins already let's go straight for the big one
-
-  who here knows SSR? has anyone gotten it to work for them? in production?
-
-  a lot of you might know SSR as setting up a node server, pushing a whole load of buttons and leavers to get a React app working on the server.
-
-  don't forget that netlify is primarly a static asset CDN, so settin up an express server isn't very jammy. Sure you could get it working on their serverless functions to make it a little jammier but if you're going for max jam you should go for pre-rendering.
+  Now, we have been able to do SSR with relative ease in Ember for years now thanks to the amazing work put into Fastboot, but we have a slight problem. If we setup a node server to host our fastboot application then we're sliding back down the jam continuoum. Remember that Netlify is primarally a static asset CDN, so we instead need some way to get the goodness of SSR while still being able to serve the assets statically. This is where pre-rendering comes in :tada:
 ---
 
 # Server-side Rendering
+
+![Fastboot](/images/fastboot.svg)
