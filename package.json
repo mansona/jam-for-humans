@@ -46,7 +46,7 @@
     "eslint-plugin-node": "^9.0.1",
     "loader.js": "^4.7.0",
     "open-slide": "^0.1.3",
-    "open-slide-reveal-template": "^0.1.3",
+    "open-slide-simplabs-template": "github:mansona/open-slide-simplabs-template",
     "prember": "^1.0.3",
     "qunit-dom": "^0.8.4"
   },

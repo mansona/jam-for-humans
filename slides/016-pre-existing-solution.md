@@ -7,4 +7,5 @@ notes: |
   both projects have great documentation and absoultely amazing communities! Gatsby even has $3.8M in funding (whatever it means for an open source project to have funding). If you don't want to build your site from the ground up using Gatsby or Vuepress there are a number of starter projects that are designed to be forked.
 ---
 
-![Gatsby](/images/gatsby-logo.svg) <!-- .element style="width: 200px; height: 200px; border: none; background: none" --> ![Vuepress](/images/vuepress-logo.png) <!-- .element style="width: 200px; border: none; background: none" -->
+![Gatsby](/images/gatsby-logo.svg) <!-- .element style="width: 200px; height: 200px;" -->
+![Vuepress](/images/vuepress-logo.png) <!-- .element style="width: 200px;" -->

@@ -7,4 +7,4 @@ notes: |
 
 # empress
 
-![Ember](/images/tomster-logo.svg) <!-- .element class="fragment" style="border: none; background: none" -->
+![Ember](/images/empress-zoey.png) <!-- .element class="fragment" -->

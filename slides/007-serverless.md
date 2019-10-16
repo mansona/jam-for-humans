@@ -1,12 +1,14 @@
 ---
 notes: |
-  Netlify are essentially a CDN and JAM Stack is like the serverless of the frontend world. CDNs are only able to serve static assets (not strictly true but it's a simpler definition for now)
+  If you simplify a few things, Netlify are essentially a CDN and focus on serving **static** assets quickly all over the world. Part of what makes JAM applications "jammie" is the idea of not having servers, and essentailly serving things statically... which plays quite well for a company that specialises in just that.
 
-  You probably think that I'm a synic at this stage but don't get me wrong. I am in love with the JAM stack, I even wrote a whole JAM focued open source project and don't forget that I even flew over here just to talk to you lovely people about it.
+  At this point you probably think I'm a sinic about the whole thing, in fact it's quite the opposite! I'm in love with JAM Stack and I am a big fan of Netlify
 
-  The reason I'm saying all this stuff about it being a maketing term is to show you that it is not something REVOLUTIONARY but instead it is an evolution of what we already know. Personally I like that because it helps me anchor my thinking about JAMStack and makes it a bit more accessible.
+  The reason I'm saying all this stuff about it being "mostly marketing" is to illustrate that JAM Stack is not something REVOLUTIONARY but instead it is an evolution of what we already know that has expertly been given a name that we can all talk about.
 
-  Now let's dive in and say what JAM actually is!
+  Thinking of it like this is also useful to help us categorise what is or isn't a JAM application and it also helps to demistify the term (at least it does for me)
+
+  Now with all this history in our back pockets, we can move on to my patent pending JAM Stack Classification spectrum
 ---
 
 ### Why Netlify

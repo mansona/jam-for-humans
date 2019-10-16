@@ -5,4 +5,4 @@ notes: |
   If you are thinking this just sounds like a static site generator then I would have to agree! there are a few differences though.
 ---
 
-# prerendering
+# Pre-rendering
