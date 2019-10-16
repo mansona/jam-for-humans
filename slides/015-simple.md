@@ -1,10 +1,10 @@
 ---
 notes: |
-  So now that you know what you need to do to make the Jammiest of sites in the world, it sounds simple right? I know that I have
+  So now that you know what you need to do to make the Jammiest of sites in the world, it all sounds pretty simple right? I know that I have been using examples of Ember Addons so far, which does indeed help to simplify the process. But it is still a lot to think about.
 
-  Well... I don't know if you have ever tried to get react SSR working, it's nothing simple at all. And setting up your own system to loop through all your content and output to html files would be next to impossible to get right! Do not do this at home kids!
+  Here in the Ember community we pride ourselves in building shared solutions and there is just that doesn't feel right about saying that our approach to JAM Stack is a todolist that you "just" need to follow to get working. Sure it's amazing that the we can npm install our way to JAM Stack this way but there has to be a more complete solution
 
-  IF you want all the sweet JAM goodness you should use a pre-existing solution
+  What do I mean by complete solution? well let's take a look at the current big players in the JAM ecosystem
 ---
 
 # "Simple"

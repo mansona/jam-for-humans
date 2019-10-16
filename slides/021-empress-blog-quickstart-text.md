@@ -3,7 +3,7 @@ notes: |
   let's take a quick look at the quick start to see how you can get the same blog yourself. this is taken directly from the quickstart on github
 ---
 
-### empress blog
+### empress-blog quickstart
 
 ```bash
 npm init ember-app super-blog
